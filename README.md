@@ -1,2 +1,3 @@
 # SCSS-Rodic-Davidson
-![Uploading 스크린샷 2021-06-14 오후 4.52.35.png…]()
+![initial](https://user-images.githubusercontent.com/70843139/121858161-46cf1480-cd31-11eb-9ad5-fa4c6c989ed4.png)
+
